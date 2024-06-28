@@ -1,0 +1,5 @@
+This repository contains one sql file and one csv file.
+You can run sql file in MySQL and for the csv file data is used for visualisation using tableau.
+
+link to download MySQL = https://dev.mysql.com/downloads/installer/
+Tableau = https://public.tableau.com/app/profile/rudrax.chhonkar/vizzes
